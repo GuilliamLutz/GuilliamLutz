@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GuilliamLutz/GuilliamLutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🎓 I'm currently a student studying the Bachelor Technical Computing Science at Avans University of Applied Sciences where I am mastering the fundamentals of programming, designing software, process management, hardware, electronics, math and project-oriented work.
 - 🔭 I’m currently working on a ESP LyraT project using I2C, FreeRTOS and C. 
 - 🌱 I’m currently learning programming in the language C in an embedded envoirement, Lynux, FreeRTOS and Atmel Studio.
