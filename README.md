@@ -10,6 +10,6 @@
     *Email: guilliamlutz@outlook.com
     *Phone: +31 0627620410
     *Linkedin: https://www.linkedin.com/in/guilliam-lutz/ 
-- ⚡ Fun fact: I starred as an fictifious character in my team's own android application. You can find the application under the repository dlvisserAvans/MB_Proftaak_A2 on my git.
+- ⚡ Fun fact: I starred as an fictitious character in my team's own android application. You can find the application under the repository dlvisserAvans/MB_Proftaak_A2 on my git.
 -->
    
