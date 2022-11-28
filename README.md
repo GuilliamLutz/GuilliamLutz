@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🎓 I'm currently a student studying the Bachelor Technical Computing Science at Avans University of Applied Sciences where I am mastering the fundamentals of programming, designing software, process management, hardware, electronics, math and project-oriented work.
-- 🔭 I’m currently working on a ESP LyraT project using I2C, FreeRTOS and C. 
-- 🌱 I’m currently learning programming in the language C in an embedded envoirement, Lynux, FreeRTOS and Atmel Studio.
+- 🔭 I’m currently working on a multi sensoral robotplatform to create a robust autonomous follow-me function. I'm working with LiDAR, Vision, Ultrasonic, UWB-beacon and ROS.
+- 🌱 I’m currently doing my minor in Robotics
 - 👯 I’m looking to collaborate on embedded projects in the direction of robotics.
 - 🤔 I’m looking for help with further enhancing my skills as a programmer in general with an focus on embedded.
 - 💬 Ask me about anything and anytime you want, I will gladly tell more about myself.
