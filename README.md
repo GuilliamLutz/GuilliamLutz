@@ -8,7 +8,7 @@ I love bridging the gap between hardware and software, turning complex technical
 
 🚀 What I'm up to
 
-🔭 Working on innovative robotics and industrial automation projects at Breda Robotics
+🔭 Working on innovative robotics and industrial automation projects at B'Robotics
 
 🧠 Exploring AI, computer vision, and intelligent robotic systems
 
