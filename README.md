@@ -2,7 +2,7 @@ Hey there, I'm Guilliam! 👋
 
 🤖 Robotics | ⚙️ Embedded Systems | 🧠 AI & Automation
 
-I'm a passionate Technical Solutions Engineer at Breda Robotics (B'Robotics), with a Bachelor's degree in Technical Computer Science from Avans University of Applied Sciences.
+I'm a passionate Robotics Engineer at B'Robotics, with a Bachelor's degree in Technical Computer Science from Avans University of Applied Sciences.
 
 I love bridging the gap between hardware and software, turning complex technical challenges into real-world solutions. Whether it's programming microcontrollers, integrating sensors, developing robotic systems, or exploring AI, I'm always excited to learn, experiment, and build.
 
