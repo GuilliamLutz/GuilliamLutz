@@ -18,11 +18,13 @@ I love bridging the gap between hardware and software, turning complex technical
 
 🌱 Continuously expanding my knowledge of robotics, AI, and software engineering
 
+
 🛠️ Technologies & Tools
 
 💻 Programming
 
 C • C++ • Python
+
 
 🤖 Robotics & Embedded
 
@@ -32,9 +34,11 @@ ROS 2 • micro-ROS • STM32 • ESP32 • NVIDIA Jetson • Sensor Integration
 
 CANopen • EtherCAT • PROFINET • EtherNet/IP • PLC Systems
 
+
 🧰 Development
 
 Git • Linux • Visual Studio • VS Code • Embedded Debugging
+
 
 💡 Things I've worked on
 
@@ -43,6 +47,7 @@ Robot One – Power Management System: Development of a distributed embedded pow
 Autonomous Robotics: Development and integration of robotic systems using ROS, sensor technologies, and embedded controllers.
 
 Industrial & Embedded Prototyping: Combining electronics, software, and mechanical systems to create practical automation solutions.
+
 
 🤝 Let's connect!
 
